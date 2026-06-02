@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 PIXELQUADRO07
+#  PIXELQUADRO07
 
 ### 🔐 Cybersecurity Enthusiast | 🤖 AI Developer | 📱 Mobile Specialist
 
