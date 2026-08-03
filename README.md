@@ -14,7 +14,7 @@
 
 ## 👋 Welcome to My Digital Space
 
-I'm a passionate developer combining **cybersecurity**, **AI innovation**, and **mobile development**. I create tools and automation that solve real-world problems in security, networking, and intelligent systems.
+I'm a passionate developer combining **cybersecurity**, **AI innovation**, and **mobile development**. I create tools and automation that solve real-world problems in security, networking, and int[...]
 
 <div align="center">
 
@@ -99,6 +99,19 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 *Self-hosted network analysis platform for homelab environments*
 
 [→ View Repository](https://github.com/PIXELQUADRO07/NetWatch)
+
+---
+
+### 🛡️ gungnirOS
+**Lightweight Security-focused Operating System**
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-red?style=flat-square)
+![Embedded](https://img.shields.io/badge/-Embedded-important?style=flat-square)
+
+*Minimal, secure OS for embedded and IoT devices — research and hardening-focused*
+
+[→ View Repository](https://github.com/PIXELQUADRO07/gungnirOS)
 
 ---
 
@@ -191,9 +204,9 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIXELQUADRO07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff)](https://github.com/PIXELQUADRO07)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIXELQUADRO07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_col[...]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PIXELQUADRO07&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/PIXELQUADRO07)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PIXELQUADRO07&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6f[...]
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PIXELQUADRO07&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/PIXELQUADRO07)
 
@@ -266,6 +279,6 @@ Focus Areas:
 
 <sub>💻 Building secure, intelligent systems one line of code at a time</sub>
 
-*Last updated: June 2026 | 10 Active Projects | Security • AI • Mobile Development*
+*Last updated: August 2026 | 11 Active Projects | Security • AI • Mobile Development*
 
 </div>
