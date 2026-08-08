@@ -111,7 +111,7 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 
 *Minimal, secure OS for embedded and IoT devices — research and hardening-focused*
 
-[→ View Repository](https://github.com/PIXELQUADRO07/KratosOS)
+[→ View Repository](https://github.com/PIXELQUADRO07/Kratos-OS)
 
 ---
 
