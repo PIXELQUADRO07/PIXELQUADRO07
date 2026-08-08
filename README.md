@@ -102,7 +102,7 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 
 ---
 
-### 🛡️ gungnirOS
+### 🛡️ Kratos os
 **Lightweight Security-focused Operating System**
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -111,7 +111,7 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 
 *Minimal, secure OS for embedded and IoT devices — research and hardening-focused*
 
-[→ View Repository](https://github.com/PIXELQUADRO07/gungnirOS)
+[→ View Repository](https://github.com/PIXELQUADRO07/KratosOS)
 
 ---
 
