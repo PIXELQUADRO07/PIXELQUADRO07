@@ -14,7 +14,11 @@
 
 ## 👋 Welcome to My Digital Space
 
-I'm a passionate developer combining **cybersecurity**, **AI innovation**, and **mobile development**. I create tools and automation that solve real-world problems in security, networking, and int[...]
+I'm a passionate developer combining **cybersecurity**, **AI innovation**, and **mobile development**. I create tools and automation that solve real-world problems in security, networking, and intelligent systems.
+
+> 💡 **Building secure, intelligent systems one line of code at a time**
+
+---
 
 <div align="center">
 
@@ -42,6 +46,7 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 🌐  Networking & DevOps                      → SSH, Network Analysis, Reconnaissance
 💻  Full Stack Development                   → Backend, Frontend, Tool Creation
 🛡️  Web Security                             → Captive Portals, Educational Research
+🔍  OSINT & Forensics                        → Intelligence Gathering, Analysis
 ```
 
 ---
@@ -50,151 +55,202 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 
 <div align="center">
 
-### 🔍 AutoPwn-Scanner
-**Automated Vulnerability Scanning & Exploitation Pipeline**
+### ⭐ Elite Collection
+
+---
+
+### 🔍 **AutoPwn-Scanner**
+*Automated Vulnerability Scanning & Exploitation Pipeline*
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Security](https://img.shields.io/badge/-Security-red?style=flat-square)
 ![Automation](https://img.shields.io/badge/-Automation-blue?style=flat-square)
 
-*Advanced penetration testing automation for authorized lab environments*
+Advanced penetration testing automation for authorized lab environments
 
-[→ View Repository](https://github.com/PIXELQUADRO07/AutoPwn-Scanner)
+[🔗 View Repository](https://github.com/PIXELQUADRO07/AutoPwn-Scanner) • [📊 Stats](https://github.com/PIXELQUADRO07/AutoPwn-Scanner/stargazers)
 
 ---
 
-### 🤖 Jarvis-Core
-**Local AI Assistant Framework**
+### 🤖 **Jarvis-Core**
+*Local AI Assistant Framework*
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![AI](https://img.shields.io/badge/-AI-9cf?style=flat-square)
 ![Ollama](https://img.shields.io/badge/-Ollama-purple?style=flat-square)
 
-*Intelligent assistant powered by local machine learning models*
+Intelligent assistant powered by local machine learning models
 
-[→ View Repository](https://github.com/PIXELQUADRO07/Jarvis-Core)
+[🔗 View Repository](https://github.com/PIXELQUADRO07/Jarvis-Core) • [📊 Stats](https://github.com/PIXELQUADRO07/Jarvis-Core/stargazers)
 
 ---
 
-### 🖥️ CoreShell
-**Advanced SSH Manager & Terminal Client**
+### 🔭 **Gungnir**
+*Interactive OSINT & Reconnaissance Framework*
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Security](https://img.shields.io/badge/-OSINT-important?style=flat-square)
+![Advanced](https://img.shields.io/badge/-C++20-yellow?style=flat-square)
+
+High-performance intelligence gathering and reconnaissance engine written in C++20
+
+[🔗 View Repository](https://github.com/PIXELQUADRO07/Gungnir) • [📊 Stats](https://github.com/PIXELQUADRO07/Gungnir/stargazers)
+
+---
+
+### 🖥️ **CoreShell**
+*Advanced SSH Manager & Terminal Client*
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
 ![Mobile](https://img.shields.io/badge/-Mobile-orange?style=flat-square)
 
-*Feature-rich SSH terminal and file manager for mobile*
+Feature-rich SSH terminal and file manager for mobile devices
 
-[→ View Repository](https://github.com/PIXELQUADRO07/CoreShell)
+[🔗 View Repository](https://github.com/PIXELQUADRO07/CoreShell) • [📊 Stats](https://github.com/PIXELQUADRO07/CoreShell/stargazers)
 
 ---
 
-### 🌐 NetWatch
-**Network Monitoring & Analysis Hub**
+### 🔭 **NetScope**
+*Network Reconnaissance & Scanning Tool*
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 ![Networking](https://img.shields.io/badge/-Networking-important?style=flat-square)
+![Fast](https://img.shields.io/badge/-Performance-brightgreen?style=flat-square)
 
-*Self-hosted network analysis platform for homelab environments*
+Fast and efficient network reconnaissance engine written in Go
 
-[→ View Repository](https://github.com/PIXELQUADRO07/NetWatch)
-
----
-
-### 🛡️ Kratos os
-**Lightweight Security-focused Operating System**
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-red?style=flat-square)
-![Embedded](https://img.shields.io/badge/-Embedded-important?style=flat-square)
-
-*Minimal, secure OS for embedded and IoT devices — research and hardening-focused*
-
-[→ View Repository](https://github.com/PIXELQUADRO07/Kratos-OS)
+[🔗 View Repository](https://github.com/PIXELQUADRO07/NetScope) • [📊 Stats](https://github.com/PIXELQUADRO07/NetScope/stargazers)
 
 ---
 
-### ⚙️ HTML-Forge
-**AI-Powered HTML Generation Framework**
+### 🌐 **NetWatch**
+*Network Monitoring & Analysis Hub*
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Monitoring](https://img.shields.io/badge/-Monitoring-important?style=flat-square)
+
+Self-hosted network analysis platform for homelab environments
+
+[🔗 View Repository](https://github.com/PIXELQUADRO07/NetWatch) • [📊 Stats](https://github.com/PIXELQUADRO07/NetWatch/stargazers)
+
+---
+
+### ⚔️ **NetNemesis**
+*DoS & DDoS Testing Tool*
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Security](https://img.shields.io/badge/-Testing-red?style=flat-square)
+![Performance](https://img.shields.io/badge/-High%20Performance-brightgreen?style=flat-square)
+
+Advanced network stress testing for authorized security research
+
+[🔗 View Repository](https://github.com/PIXELQUADRO07/NetNemesis) • [📊 Stats](https://github.com/PIXELQUADRO07/NetNemesis/stargazers)
+
+---
+
+### ⚙️ **HTML-Forge**
+*AI-Powered HTML Generation Framework*
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![AI](https://img.shields.io/badge/-Ollama-purple?style=flat-square)
 ![Automation](https://img.shields.io/badge/-Automation-blue?style=flat-square)
 
-*Generate modern web pages from natural language prompts*
+Generate modern web pages from natural language prompts
 
-[→ View Repository](https://github.com/PIXELQUADRO07/HTML-Forge)
-
----
-
-### 📲 BluetoothJammer
-**Experimental Bluetooth Interference Tool**
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
-![Research](https://img.shields.io/badge/-Research-yellow?style=flat-square)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-
-*Educational Bluetooth manipulation for Android (WIP)*
-
-[→ View Repository](https://github.com/PIXELQUADRO07/BluetoothJammer)
-
-</div>
+[🔗 View Repository](https://github.com/PIXELQUADRO07/HTML-Forge) • [📊 Stats](https://github.com/PIXELQUADRO07/HTML-Forge/stargazers)
 
 ---
 
-## 🆕 Latest Projects
-
-<div align="center">
-
-### 🔭 NetScope
-**Network Reconnaissance & Scanning Tool**
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-![Networking](https://img.shields.io/badge/-Networking-important?style=flat-square)
-![Reconnaissance](https://img.shields.io/badge/-Reconnaissance-red?style=flat-square)
-
-*Fast and efficient network reconnaissance engine written in Go*
-
-[→ View Repository](https://github.com/PIXELQUADRO07/NetScope)
-
----
-
-### 🎭 Evil-Portal-HTML
-**Captive Portal Collection**
+### 🎭 **Evil-Portal-HTML**
+*Captive Portal Collection*
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 ![Security](https://img.shields.io/badge/-Security-red?style=flat-square)
 ![Educational](https://img.shields.io/badge/-Educational-blue?style=flat-square)
 
-*Comprehensive list of fake login pages for authorized security testing*
+Comprehensive list of fake login pages for authorized security testing
 
-[→ View Repository](https://github.com/PIXELQUADRO07/Evil-portal-html)
+[🔗 View Repository](https://github.com/PIXELQUADRO07/Evil-portal-html) • [📊 Stats](https://github.com/PIXELQUADRO07/Evil-portal-html/stargazers)
 
 ---
 
-### 👥 CLAN-DEI-NUDI-APP
-**Community Mobile Application**
+### 🔎 **Probe-OSINT**
+*Open Source Intelligence Tool*
+
+![OSINT](https://img.shields.io/badge/-OSINT-important?style=flat-square)
+![Intelligence](https://img.shields.io/badge/-Intelligence-blue?style=flat-square)
+
+Professional OSINT framework for information gathering and analysis
+
+[🔗 View Repository](https://github.com/PIXELQUADRO07/Probe-OSINT) • [📊 Stats](https://github.com/PIXELQUADRO07/Probe-OSINT/stargazers)
+
+---
+
+## 📱 Mobile & Community Projects
+
+<div align="center">
+
+### 📲 **BluetoothJammer**
+*Experimental Bluetooth Interference Tool*
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
+![Research](https://img.shields.io/badge/-Research-yellow?style=flat-square)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
+
+Educational Bluetooth manipulation for Android (WIP)
+
+[🔗 View Repository](https://github.com/PIXELQUADRO07/BluetoothJammer)
+
+---
+
+### 👥 **CLAN-DEI-NUDI-APP**
+*Community Mobile Application*
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
 ![Community](https://img.shields.io/badge/-Community-green?style=flat-square)
 
-*Official app for Clan Dei Nudi community*
+Official app for Clan Dei Nudi community
 
-[→ View Repository](https://github.com/PIXELQUADRO07/CLAN-DEI-NUDI-APP)
+[🔗 View Repository](https://github.com/PIXELQUADRO07/CLAN-DEI-NUDI-APP)
 
 ---
 
-### 🎨 AP1
-**Web Development Project**
+### 🌐 **AP-Generator**
+*Access Point Management Tool*
 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![Frontend](https://img.shields.io/badge/-Frontend-blueviolet?style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
+![Networking](https://img.shields.io/badge/-Networking-important?style=flat-square)
 
-*Modern web development project with advanced styling*
+Create and manage Wi-Fi access points with ease
 
-[→ View Repository](https://github.com/PIXELQUADRO07/AP1)
+[🔗 View Repository](https://github.com/PIXELQUADRO07/AP-Generator)
+
+---
+
+### 💡 **Lenovo-keylight-effects**
+*Custom Keyboard Effects Suite*
+
+![Effects](https://img.shields.io/badge/-Custom%20Effects-blueviolet?style=flat-square)
+![Lenovo](https://img.shields.io/badge/-Lenovo%20Yoga-orange?style=flat-square)
+
+Advanced lighting effects for Lenovo Yoga series keyboards
+
+[🔗 View Repository](https://github.com/PIXELQUADRO07/Lenovo-keylight-effects)
+
+---
+
+### 🏙️ **ProcessCity**
+*Visual Process Monitor*
+
+![Visualization](https://img.shields.io/badge/-Visualization-brightgreen?style=flat-square)
+![Monitor](https://img.shields.io/badge/-Monitor-blue?style=flat-square)
+
+Turn your operating system into a living city with visual process monitoring
+
+[🔗 View Repository](https://github.com/PIXELQUADRO07/ProcessCity)
 
 </div>
 
@@ -204,13 +260,23 @@ I'm a passionate developer combining **cybersecurity**, **AI innovation**, and *
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIXELQUADRO07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_col[...]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIXELQUADRO07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/PIXELQUADRO07)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PIXELQUADRO07&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6f[...]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PIXELQUADRO07&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/PIXELQUADRO07)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PIXELQUADRO07&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/PIXELQUADRO07)
 
 </div>
+
+---
+
+## 🐍 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIXELQUADRO07/PIXELQUADRO07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PIXELQUADRO07/PIXELQUADRO07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PIXELQUADRO07/PIXELQUADRO07/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -238,6 +304,7 @@ Focus Areas:
   ✓ Artificial Intelligence & ML
   ✓ Mobile Development (Android)
   ✓ Network Administration & Reconnaissance
+  ✓ OSINT & Intelligence Gathering
   ✓ DevOps & Automation
   ✓ Web Security Research
 ```
@@ -253,6 +320,7 @@ Focus Areas:
 📚 Knowledge Sharing & Mentoring
 🎯 Innovative Security Solutions
 🔧 Tool Development & Optimization
+🔐 Privacy-Focused Applications
 ```
 
 ---
@@ -264,6 +332,7 @@ Focus Areas:
 [![GitHub](https://img.shields.io/badge/GitHub-PIXELQUADRO07-black?style=for-the-badge&logo=github)](https://github.com/PIXELQUADRO07)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg)
 
 </div>
 
@@ -279,6 +348,8 @@ Focus Areas:
 
 <sub>💻 Building secure, intelligent systems one line of code at a time</sub>
 
-*Last updated: August 2026 | 11 Active Projects | Security • AI • Mobile Development*
+*Last updated: October 2026 | 17 Active Projects | Security • AI • Mobile Development*
+
+**"Code is poetry written for computers, not humans"** 🎭
 
 </div>
